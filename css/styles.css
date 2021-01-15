@@ -21,7 +21,7 @@
   font-size: 40px;
   }
   body{
-    font-family: Calligraffitti;
+    font-family: Calligraffitt
   }
 }
 h1{
@@ -33,8 +33,8 @@ body{
 
     background-image: url("/images/iipiz.jpeg");
     background-size: cover;
-     background-repeat: no-repeat;
-  background-color: red;
+    background-repeat: no-repeat;
+    background-color:black;
 }
 .btn{
   color: white;
