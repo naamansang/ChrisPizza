@@ -33,7 +33,7 @@ body{
     background-image: url("");
     background-size: cover;
     background-repeat: no-repeat;
-    background-color:red;
+    background-color:grey;
 }
 .btn{
   color: wheat;
