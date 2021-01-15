@@ -156,4 +156,6 @@ color: white;
 background: #ff6600;
 color: white;
 }
-
+*{
+    background-image: url("/images/piz.jpeg");
+}
