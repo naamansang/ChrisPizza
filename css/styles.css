@@ -18,7 +18,7 @@
   color: yellow;
   text-shadow: 6px 6px green;
   font-family: Calligraffitti;
-  font-size: 30px;
+  font-size: 40px;
   }
   body{
     font-family: Calligraffitti;
@@ -31,7 +31,7 @@ h1{
 }
 body{
 
-    background-image: url("../images/intro.jpg");
+    background-image: url("/images/iipiz.jpeg");
     background-size: cover;
      background-repeat: no-repeat;
   background-color: red;
@@ -42,7 +42,7 @@ body{
 }
 .fa {
   padding: 20px;
-  font-size: 30px;
+  font-size: 40px;
   width: 70px;
   text-align: center;
   text-decoration: none;
@@ -156,6 +156,5 @@ color: white;
 background: #ff6600;
 color: white;
 }
-*{
-    background-image: url("/images/piz.jpeg");
+*
 }
